@@ -39,7 +39,7 @@
 ---
 
 ## 📫 Me contacter
-- Discord : `TonPseudo#0000`
+- Discord : `r00_444`
 - GitHub : [https://github.com/r00_444](https://github.com/TonPseudo)
 
 ---
